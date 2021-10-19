@@ -12,8 +12,10 @@ The deck part of this Project was the easiest part of the three. The bending of 
 
 #### Trucks
 ![Trucks_Photo](Images/Trucks.png)
+
 Making the trucks was quite simple if you just follow what the instructions tell you to do, when the trucks were changed it was also pretty easy to follow except for one part. The one time that I got stuck was when I changed something but something broke and it didn't break in the instuctions so I had to just figure it out myself.
 
 #### Wheel and Bearing
 ![Wheel_and_Bearing](Images/WheelAndBearing.png)
+
 The wheel and the bearing was the second easiest part because all that had to be done was a small sketch and the n a revolve and that was it. The only thing of intrest that actually happened was reminding myself how to do a revolve.
