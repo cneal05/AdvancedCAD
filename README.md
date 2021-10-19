@@ -1,7 +1,7 @@
 # AdvancedCAD
 ## Skateboard 
 ### Assginment
-Create a skateboard in CAD by following the directions
+Create a skateboard, and all the parts required to make it, in OnShape by following the given directions.
 #### Entire Board
 ![FullSkateboard](Images/FullSkateboard.png)
 ##### Entire Board Reflection
