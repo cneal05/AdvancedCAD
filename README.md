@@ -19,4 +19,4 @@ Making the trucks was quite simple if you just follow what the instructions tell
 #### Wheel and Bearing
 ![Wheel_and_Bearing](Images/WheelAndBearing.png)
 
-The wheel and the bearing was the second easiest part because all that had to be done was a small sketch and the n a revolve and that was it. The only thing of intrest that actually happened was reminding myself how to do a revolve.
+The wheel and the bearing was one of easier part to make, because all that had to be done was a sketch with a lot of weird, but somewhat easy to follow dimensions, but the had to be esxact so that they would fit on the trucks. Next the sketch was revolved around a center line. The things to take away for the future, was reminding myself how to do a revolve, and using the hole that was made with the revolve, and just extruding that out to make the bearing, and finally making a very quick shell to make a indention on the bearing to make it look more like a bearing.
