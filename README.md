@@ -29,17 +29,22 @@ During the consturction of the whole board I learned of a couple new ways to do 
 ### Assignment
 Create a Lego Brick and then make enough configurations to be able to build a duck out of those Legos
 #### 3.1 Lego Brick
-![]()
+![Lego_Brick](/Images/LegoBrick.png)
 ##### Reflection
 
 #### 3.2 Lego Brick Confiurations 
-![]()
+![SizeConfigurationTable](/Images/SizeConfigTable.png)
+Configuration table for the size of the Lego brick
+![BlockTypeConfigurationTable](/Images/BlockTypeConfigTable.png)
+Configuration table for the block type of the Lego brick
+![ColorConfigurationTable](/Images/ColorConfigTable.png)
+Configuration table for the color of the Lego brick
 ##### Reflection
 
 #### 3.3 Assembled Duck
-![]()
+![](/Images/LegoBrick.png)
 ##### Reflection
 
 #### 3.4 Duck Drawing
-![]()
+![](/Images/LegoBrick.png)
 ##### Reflection
