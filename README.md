@@ -47,9 +47,11 @@ Configuration table for the color of the Lego brick
 ##### Reflection
 
 #### 3.3 Assembled Duck
-![](/Images/LegoBrick.png)
+![Fully_Assembled_Duck](/Images/FullDuck.png)
 ##### Reflection
 
 #### 3.4 Duck Drawing
-![](/Images/LegoBrick.png)
+![Fully_Assembled_Duck_Drawing](/Images/DuckDrawing1.png)
+
+![Exploded_Duck_View](/Images/DuckDrawing2.png)
 ##### Reflection
