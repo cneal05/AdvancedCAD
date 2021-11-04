@@ -51,10 +51,11 @@ Configuration table for the color of the Lego brick
 ##### Reflection
 
 #### 3.4 Duck Drawing
-![Fully_Assembled_Duck_Drawing](/Images/DuckDrawing1.png | width=100)
+<img src="/Images/DuckDrawing1.png" width="500">
 
 Base duck drawing 
 ![Exploded_Duck_View](/Images/DuckDrawing2.png)
 
-Exploded drawing of the duck that allows you to see the bricks more clearly and where they are placed.
+Exploded drawing of the duck
 ##### Reflection
+Drawings are a pretty knew thing ad a little odd, so just remember that drawing are useful because if you do the right drawing and display it correctly it will allow you/the person looking at the drawing to see the bricks more clearly and where they are placed. Another thing that is very useful is a BOM table, because it allows you to display what parts, bricks in this assignment, are used in this assembly and it shows the right amount and which pieces.
