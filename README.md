@@ -24,3 +24,22 @@ The wheel and the bearing was one of easier part to make, because all that had t
 ![FullSkateboard](Images/FullSkateboard.png)
 
 During the consturction of the whole board I learned of a couple new ways to do things. Firstly I learned of the replicate tool, i had never used this tool before but I plan on using it in the future. The replicate tool allowed me to take one part, usually a bolt or nut of some kind, and then it allowed me to place it in every available place like the first place it was placed. Another thing that was very helpful was snap mode which I used to place the nuts and bolts with out having to insert each and everyone of them over and over again, when if I used the snap tool I can insert all of them, into the right places, all with one insert.
+
+## Duck
+### Assignment
+Create a Lego Brick and then make enough configurations to be able to build a duck out of those Legos
+#### 3.1 Lego Brick
+![]()
+##### Reflection
+
+#### 3.2 Lego Brick Confiurations 
+![]()
+##### Reflection
+
+#### 3.3 Assembled Duck
+![]()
+##### Reflection
+
+#### 3.4 Duck Drawing
+![]()
+##### Reflection
