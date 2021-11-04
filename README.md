@@ -53,5 +53,8 @@ Configuration table for the color of the Lego brick
 #### 3.4 Duck Drawing
 ![Fully_Assembled_Duck_Drawing](/Images/DuckDrawing1.png)
 
+Base duck drawing 
 ![Exploded_Duck_View](/Images/DuckDrawing2.png)
+
+Exploded drawing of the duck that allows you to see the bricks more clearly and where they are placed.
 ##### Reflection
