@@ -34,10 +34,15 @@ Create a Lego Brick and then make enough configurations to be able to build a du
 
 #### 3.2 Lego Brick Confiurations 
 ![SizeConfigurationTable](/Images/SizeConfigTable.png)
+
 Configuration table for the size of the Lego brick
+
 ![BlockTypeConfigurationTable](/Images/BlockTypeConfigTable.png)
+
 Configuration table for the block type of the Lego brick
+
 ![ColorConfigurationTable](/Images/ColorConfigTable.png)
+
 Configuration table for the color of the Lego brick
 ##### Reflection
 
