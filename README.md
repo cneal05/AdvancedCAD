@@ -54,7 +54,7 @@ Configuration table for the color of the Lego brick
 <img src="/Images/DuckDrawing1.png" width="500">
 
 Base duck drawing 
-![Exploded_Duck_View](/Images/DuckDrawing2.png)
+<img src="/Images/DuckDrawing2.png" width="500">
 
 Exploded drawing of the duck
 ##### Reflection
