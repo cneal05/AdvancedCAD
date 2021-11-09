@@ -29,17 +29,38 @@ During the consturction of the whole board I learned of a couple new ways to do 
 ### Assignment
 Create a Lego Brick and then make enough configurations to be able to build a duck out of those Legos
 #### 3.1 Lego Brick
-![]()
+<img src="/Images/LegoBrick.png" width="500">
 ##### Reflection
+One thing that is useful taht we used during this part creation, and that was the shell feature. the sheel feature allows you to take a part that you have already made, and shell out the piece from one side and decide how thick the sides are. the second thing that happened here was adding new features ability. this ability makes it so some one can make an unoffical feature, and you can just take that feauture and add it to your onshape so you can do it in your own creations later. 
 
 #### 3.2 Lego Brick Confiurations 
-![]()
+<img src="/Images/SizeConfigTable.png" width="500">
+
+Configuration table for the size of the Lego brick
+
+<img src="/Images/BlockTypeConfigTable.png" width="500">
+
+Configuration table for the block type of the Lego brick
+
+<img src="/Images/ColorConfigTable.png" width="500">
+
+Configuration table for the color of the Lego brick
 ##### Reflection
+Configuratations are some of the more useful things, because it allows you to make a different version of your part by supressing some features, and potentially adding more features.
 
 #### 3.3 Assembled Duck
-![]()
+<img src="/Images/FullDuck.png" width="400">
+
 ##### Reflection
+Snap mode. Its just one of the more simpler tools to use, but so incredibly useful. Snap mode allows you to snap two mate connectors together very easily.
 
 #### 3.4 Duck Drawing
-![]()
+<img src="/Images/DuckDrawing1.png" width="500">
+
+Base duck drawing 
+
+<img src="/Images/DuckDrawing2.png" width="500">
+
+Exploded drawing of the duck
 ##### Reflection
+Drawings are a pretty knew thing ad a little odd, so just remember that drawing are useful because if you do the right drawing and display it correctly it will allow you/the person looking at the drawing to see the bricks more clearly and where they are placed. Another thing that is very useful is a BOM table, because it allows you to display what parts, bricks in this assignment, are used in this assembly and it shows the right amount of pieces.
