@@ -64,3 +64,20 @@ Base duck drawing
 Exploded drawing of the duck
 ##### Reflection
 Drawings are a pretty knew thing ad a little odd, so just remember that drawing are useful because if you do the right drawing and display it correctly it will allow you/the person looking at the drawing to see the bricks more clearly and where they are placed. Another thing that is very useful is a BOM table, because it allows you to display what parts, bricks in this assignment, are used in this assembly and it shows the right amount of pieces.
+## Multi-Tool
+### Assignment
+Create a Multi-Tool, from the dimensions given, that can work as a wrench, protractor, and a straightedge with inches and centimeter increments.
+#### Multi-Tool 1
+
+#### Reflection
+Nothing special happened in this part of the Multi-Tool except for one feature that I havent really used before, the Sketch-Fillet. The Sketch Fillet is the exact same as the normal fillet, except that you do it in a sketch. The way you use it is by pressing a corner with the sketch fillet clicked and it will creat an arc with the two lines that made the corner, and then all you have to do it is to change the value of the fillet and then you are done.
+
+#### Multi-Tool 2
+
+#### Reflection
+Creating the Drawing of the Multi-tool was simple, all I had to do was create a drawing tab, and click the insert button, and then click my multi-tool and drag it in, making sure it was in the right orientation and was in the right aspect ratio. After all of that all i had to do was drag it up into the right corner, draw some lines so that it will make the scrap left over more usable. and then export the file and put it in the "Print me" google drive.
+
+#### Multi-Tool 3
+
+#### Reflection
+In this section of the assignment we were told that we forgot to add the wrench, so we made an assembly, and added a nut -1.85 mm on the x, and 7.5 mm on the y from the bottom right corner of the multi-tool. Then we edit the multi-tool in context to that mate that we have with the nut and remove the part of the multi-tool behind it, then we update the drawing and export it again and then put it in the drive and go over to the laser cutter, where we download the drawing onto the laser cutter computer. Then select that drawing on the laser cutter program, move it over to the top right corner and then find a good piece of acrylic then turn on the BOFA fan, and finally select the what you are cutting and the width of the material, then cut.
